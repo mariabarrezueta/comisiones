@@ -167,3 +167,4 @@ C:\Users\ASUS\MiniCoreComision\bin\Debug\net9.0\frontend-clasico\package.json
 C:\Users\ASUS\MiniCoreComision\bin\Debug\net9.0\frontend-clasico\tsconfig.app.json
 C:\Users\ASUS\MiniCoreComision\bin\Debug\net9.0\frontend-clasico\tsconfig.json
 C:\Users\ASUS\MiniCoreComision\bin\Debug\net9.0\frontend-clasico\tsconfig.spec.json
+C:\Users\ASUS\MiniCoreComision\obj\Debug\net9.0\MiniCoreComision.sourcelink.json
