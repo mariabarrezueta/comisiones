@@ -1,0 +1,6 @@
+@MiniCoreComision_HostAddress = http://localhost:5189
+
+GET {{MiniCoreComision_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
