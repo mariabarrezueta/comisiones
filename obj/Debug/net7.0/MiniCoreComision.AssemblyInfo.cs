@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniCoreComision")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fd255d54ea4853433fc4d326eb31076a4eccfc7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87d8c364d466c1a53bf46edd721a10025d16fe42")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniCoreComision")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniCoreComision")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
